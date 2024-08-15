@@ -1,0 +1,9 @@
+# .gitignore
+## OSX Specific
+.DS_Store
+
+## Idea specific
+.idea
+
+## Visual Studio Code specific
+.vscode
