@@ -1,0 +1,11 @@
+id = "clingo"
+name = "Clingo Language Support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Gilles Deleuze <antipolaire@gmail.com>"]
+description = "Clingo language support for Zed"
+repository = "https://github.com/antipolaire/zed-clingo"
+
+[grammars.clingo]
+repository = "https://github.com/potassco/tree-sitter-clingo"
+commit = "cb06e649c2994de6dc6b4bafb3dd864e2ed33675"

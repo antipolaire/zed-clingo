@@ -1,0 +1,4 @@
+name = "Clingo"
+grammar = "clingo"
+path_suffixes = ["lp"]
+line_comments = ["% "]
